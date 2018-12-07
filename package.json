@@ -1,0 +1,22 @@
+{
+  "name": "pdvnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samudiogo/PdvNode.git"
+  },
+  "author": "Samuel Diogo (Solidcon)",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/samudiogo/PdvNode/issues"
+  },
+  "homepage": "https://github.com/samudiogo/PdvNode#readme",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
+}
